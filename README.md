@@ -43,7 +43,7 @@ two weeks develop a larger **final project** presented on the last day.
 
 | | Mon | Tue | Wed | Thu | Fri |
 |---|---|---|---|---|---|
-| **Week 1** | Teaching | Teaching | Teaching | Final project defined | Final project work |
+| **Week 1** | Teaching | Teaching | Teaching | Final project work | Final project work |
 | **Week 2** | Teaching | Teaching | Final project work | Final project work | **Presentations** |
 
 <!-- Adjust the grid above to match the exact day-by-day plan if it differs. -->
