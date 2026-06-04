@@ -3,7 +3,7 @@
 **Practical block course · MSc · University of Tübingen**
 Methods in Medical Informatics · PfeiferLab · Department of Computer Science
 
-> Current version: **Wintersemester 2026/27**. Earlier cohorts are available as [tagged releases](../../tags).
+> Current version: **Wintersemester 2025/26**. Earlier cohorts are available as [tagged releases](../../tags).
 
 <!-- Optional but recommended: add one representative figure to docs/ and uncomment.
      A seasonal decomposition or an STL plot from notebook 01/02 works well. -->
