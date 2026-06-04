@@ -1,0 +1,11 @@
+# Core
+numpy
+pandas
+matplotlib
+scipy
+statsmodels>=0.13
+scikit-learn
+requests
+
+# Notebook environment (local use; not needed on Colab)
+jupyterlab
